@@ -1,5 +1,6 @@
 {
     "name": "Mario The Last Castle republished (Unfinised  2023)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
